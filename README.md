@@ -2,6 +2,7 @@
 
 [![M001_proof_of_completion](https://user-images.githubusercontent.com/34960418/165289072-78449506-0d6c-4336-a071-9bfcd1460068.jpg)](https://university.mongodb.com/course_completion/8d24ef9f-be85-450d-b36d-ba358b6fbb57)
 
+[![image](https://user-images.githubusercontent.com/34960418/165291473-a38e8cf8-310b-45d3-a776-8f59d22af90b.png)](https://softuni.bg/certificates/details/131676/5ab8217f)
 
 [![image](https://user-images.githubusercontent.com/34960418/165291216-cc2ec5ec-1de1-4e2d-abe1-ee3f6608095b.png)](https://softuni.bg/certificates/details/122857/7061e5d6)
 
