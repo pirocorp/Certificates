@@ -1,6 +1,6 @@
 # Certificates
 
-![image](https://user-images.githubusercontent.com/34960418/221572584-aaf586fd-dee2-44fa-b3fa-13ac1cb1f9e6.png)
+[![image](https://user-images.githubusercontent.com/34960418/221572584-aaf586fd-dee2-44fa-b3fa-13ac1cb1f9e6.png)](https://www.credly.com/earner/earned/badge/bf4621e4-72fe-4b90-a19a-0d67d9cb1f5b)
 
 [![image](https://user-images.githubusercontent.com/34960418/221573251-4fd773bd-f08b-48f7-80f5-3b23ab151f38.png)](https://softuni.bg/certificates/details/146749/b25d5132)
 
